@@ -1,0 +1,2 @@
+# StrukturData
+Latihan 1
